@@ -10,10 +10,10 @@ Seguí el curso **"CURSO de REACT desde cero 2025 – Aprende React Desde Cero"*
 
 Con eso como base arme mi propia versión: un formulario para escribir y agregar notas nuevas, una lista que se genera dinámicamente a partir de esas notas.
 
-![alt text](img/image-1.pngimage-1.png)
+![alt text](img/image-1.png)
 
 
-![alt text](img/image-2.pngimage-2.png)
+![alt text](img/image-2.png)
 
 ## Componentes del proyecto
 
